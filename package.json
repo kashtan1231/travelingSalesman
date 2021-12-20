@@ -1,0 +1,18 @@
+{
+  "name": "travelling_salesman",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "csv-parser": "^3.0.0"
+  },
+  "devDependencies": {
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
